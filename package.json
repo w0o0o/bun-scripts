@@ -2,6 +2,11 @@
     "name": "bun-scripts",
     "displayName": "Bun Scripts",
     "description": "",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/w0o0o/bun-scripts.git"
+    },
+    "publisher": "w0o0o",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.82.0"
